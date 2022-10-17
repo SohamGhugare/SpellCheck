@@ -7,3 +7,4 @@ from nltk.util import ngrams
 # nltk.download("words")
 from nltk.corpus import words
 
+correct_words = words.words()
